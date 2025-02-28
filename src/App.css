@@ -176,7 +176,7 @@ h3.font-medium.text-yellow-800 {
 }
 
 .text-xl.font-semibold {
-  font-weight: 700;
+    font-weight: 700;
 }
 
 /* Nutrition Tips section */
@@ -363,6 +363,7 @@ h3.font-medium.text-yellow-800 {
 }
 
 .text-2xl {
+  color: black;
   font-size: 1.5rem;
   line-height: 2rem;
 }
